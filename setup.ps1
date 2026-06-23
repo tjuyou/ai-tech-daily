@@ -1,4 +1,4 @@
-# Horizon 环境安装脚本（只需运行一次）
+﻿# Horizon 环境安装脚本（只需运行一次）
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $root
 

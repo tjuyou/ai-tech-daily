@@ -1,4 +1,4 @@
-# Horizon 每日自动化 - 右键"使用PowerShell运行"
+﻿# Horizon 每日自动化 - 右键"使用PowerShell运行"
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $root
 
